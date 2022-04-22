@@ -1,0 +1,11 @@
+apple_pie\0.jpg,cinnamon,flour,lemon,nutmeg,pastry,milk,butter,apples,sugar
+apple_pie\1.jpg,cinnamon,flour,eggs,butter,apples,sugar
+apple_pie\2.jpg,cinnamon,apple concentrate,cornstarch,apples,shell
+apple_pie\3.jpg,butter margarine,caramel sauce,flour,spice pumpkin spice,lemon,mcintosh apples,rum imitation rum flavoring,dish,corn starch,sugar
+apple_pie\4.jpg,cinnamon,buttermilk baking,margarine,eggs,nutmeg,milk,butter,walnuts,apples,sugar
+apple_pie\5.jpg,cinnamon,maple syrup,vanilla extract,nutmeg,pastry,apples,sugar
+apple_pie\6.jpg,cinnamon,wonton wrappers,eggs,butter,apples,sugar
+apple_pie\7.jpg,flour,butter,walnuts,apples,sugar
+apple_pie\8.jpg,cinnamon,cream tartar,crackers,lemon,pastry,water,butter,sugar
+apple_pie\9.jpg,cinnamon,prerolled crusts,butter,apples,sugar
+apple_pie\10.jpg,baking,cinnamon,flour,lemon,wheat flour,milk,vegetable oil,butter,apples,salt,sugar
